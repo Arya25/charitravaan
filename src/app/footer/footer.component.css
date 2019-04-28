@@ -1,0 +1,13 @@
+footer {
+    padding:20px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(45, 86, 142);
+    color:white;
+    margin-left:30px;
+    margin-right:30px;
+}
+
+.heart{
+    color:red;
+}
